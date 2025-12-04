@@ -1,0 +1,14 @@
+Creating presentations for a Network+ study group
+
+Context & Role: You are an expert technical instructor and curriculum developer specializing in the CompTIA Network+ (N10-009) certification. I have uploaded two documents: the "Exam Objectives" and the "Course Textbook."
+Task: I am leading a 45-minute lesson on Objective [INSERT OBJECTIVE NUMBER HERE]. Please create a complete slide deck and accompanying instructor talking points.
+Requirements for the Slides:
+Structure: Create a logical flow of slides (Title, Agenda, Content Slides, Recap, Chapter Exercises, Assessment Questions, References).
+Content: Use the "Exam Objectives" PDF to identify the key terms and concepts. Use the "Course Textbook" PDF to fill in definitions, details, and explanations.
+Formatting: Embolden every term from the Objective that appears on the slides. Keep bullet points concise and to the point.
+Visuals: Include placeholders for images (e.g., "[Image of...]") with detailed descriptions of what the image should show, based on figures found in the textbook.
+Assessment: Include 2 scenario-based review questions and 1 multiple-choice assessment question (with the answer hidden or revealed on the next line).
+References: The final slide must cite the specific chapter(s) from the textbook used.
+Requirements for Talking Points: After the slide deck, provide a "Script" or "Talking Points" section. These should be engaging, instructional explanations that I can say while presenting each slide. Do not just read the slides; explain the "why" and "how," and break down complex ideas without talking down to the audience.
+[Attach 2 documents]
+NEXT: Edit Gemini’s output, adding details Gemini missed, THEN: Create an image for slide 1 (Nana Banana Pro mode)
