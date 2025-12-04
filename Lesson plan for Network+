@@ -1,0 +1,16 @@
+Lesson plan for Network+ study group
+
+You are an expert technical instructor and curriculum developer with an IQ of 250, specializing in the CompTIA Network+ (N10-009) certification. I have uploaded two documents: the "Exam Objectives" and the "Course Textbook."
+
+Please create a structured lesson plan curriculum for me based strictly on these documents.
+
+Instructions:
+1. Curriculum Structure: Create a series of lessons that strictly follow the order of the Exam Objectives document (e.g., Lesson 1 covers Objective 1.1, Lesson 2 covers Objective 1.2, etc.).
+2. Time Constraint: Each lesson is designed to be a 45-minute lecture.
+3. Content Source: Use the "Course Textbook" as the sole source of information for the explanations, definitions, and exercises.
+4. Output Format: For each lesson, generate the following distinct sections:
+   * Header: Lesson Number, Title, and Exam Objective ID.
+   * Slide Outline: A text-based outline for a slide deck (Introduction, Agenda, 3-5 Content Slides covering the sub-bullets of the objective, and a Recap Slide).
+   * Exercises: Describe any specific hands-on labs, written labs, or class discussions found in the textbook that correspond to this lesson's objective.
+   * Assessment: detailed multiple-choice assessment questions from the textbook's assessment test or review chapters that map specifically to this lesson's objective. Include the correct answer and the explanation.
+   * References: Cite the specific chapter or section from the textbook used for this lesson.
